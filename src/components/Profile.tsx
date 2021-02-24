@@ -8,7 +8,7 @@ export function Profile() {
                 <strong>Emanuel Bitencourt</strong>
                 <p>
                     <img src="icons/level.svg" alt="Level"/>
-                    Level 999
+                    Level 1
                 </p>
             </div>
 
