@@ -56,7 +56,7 @@ export function Countdown(){
                 disabled
                 className={styles.countdownButton}
             >
-            Ciclo Encerrado
+            Ciclo Encerrado <img className={styles.img} src="../complete.webp" width="20" alt="Completo" />
             </button>
         ) : (
             <>

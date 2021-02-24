@@ -77,4 +77,10 @@
   background: var(--white);
   color: var(--text);
   cursor: not-allowed;
+  border-bottom: 3px solid var(--green);
+  border-radius: 1px;
+}
+
+.img {
+  margin-left: 0.3rem;
 }
